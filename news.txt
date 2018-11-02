@@ -1,1 +1,15 @@
-prueba
+-> 0.3.5
+  Compartir descripción del sonido.
+  Tablón de noticias.
+  Comprobación de versión.
+-> 0.3
+  Agregar animación a las descripciones de los animes.
+  Sonidos de One Piece. 
+  Sonidos de Eromanga-Sensei.
+  Descripciones sonidos anime.
+-> v0.2
+  Cuando clickes a un boton se quiten todos los sonidos. Ejecutar boton stop. 
+  Agregar descripción de los animes al mantaner pulsado y que estén cargados en RAM.
+  Optimización de scripts.
+  Arreglar resolución en pantallas que no son 1080x1920.
+  Arreglar cambios de escenas.

@@ -1,4 +1,11 @@
-->0.3.6
+Notas de versión actual:
+-> 0.3.7
+  Solucionado problema con los botones de compartir.
+Notas versión 0.4:
+  Diseñar logo. 
+  Diseñar pantalla de carga. 
+Notas anteriores versiones
+-> 0.3.6
   Solucionados problemas con botones que no funcionaban.
 -> 0.3.5
   Compartir descripción del sonido.

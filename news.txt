@@ -2,9 +2,12 @@ Notas de versión actual:
 -> 0.3.7
   Solucionado problema con los botones de compartir.
 
-Notas versión 0.4:
+Notas la próxima versión 0.4:
   Diseñar logo. 
   Diseñar pantalla de carga. 
+  Agregar función: detectar cuando las noticias han cambiado para que se abran solo si han cambiado o pulsando un botón en la     pantalla de inicio. Descargar archivo de las últimas noticias leídas para comparar.
+  Subir audios a la nube y añadir opción para compartirlos, es decir, cuando se comparten se descargan de la nube y se comparte el  audio.
+  Agregar contenido (audios, vídeos, imágenes...)
 
 Notas anteriores versiones
 -> 0.3.6

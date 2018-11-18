@@ -1,7 +1,6 @@
 Notas de versión actual:
--> 0.3.7
-  Solucionado problema con los botones de compartir.
-
+-> 0.3.8
+  Las noticias solo se abren cuando han cambiado en la nube
 Notas la próxima versión 0.4:
   Diseñar logo. 
   Diseñar pantalla de carga. 
@@ -9,7 +8,9 @@ Notas la próxima versión 0.4:
   Subir audios a la nube y añadir opción para compartirlos, es decir, cuando se comparten se descargan de la nube y se comparte el  audio.
   Agregar contenido (audios, vídeos, imágenes...)
 
-Notas anteriores versiones
+Notas anteriores versiones:
+-> 0.3.7
+  Solucionado problema con los botones de compartir.
 -> 0.3.6
   Solucionados problemas con botones que no funcionaban.
 -> 0.3.5

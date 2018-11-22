@@ -1,11 +1,14 @@
 Notas de versión actual:
 -> 0.3.8
-  Las noticias solo se abren cuando han cambiado en la nube
+  Arreglar errores con la nueva función: las noticias solo se abren cuando se abre el menú principal por primera vez al abrir la 
+  aplicación y no al volver a él mediante otras escenas.
+  Arreglar errores de cambio de versión de Unity. 2018.13f a 2018.16f.
+  Arreglado el vídeo de Nico Nico Nii que no estaba en la relación de aspecto 16/9 sino en 12/7.
+
 Notas la próxima versión 0.4:
   Diseñar logo. 
   Diseñar pantalla de carga. 
-  Agregar función: detectar cuando las noticias han cambiado para que se abran solo si han cambiado o pulsando un botón en la     pantalla de inicio. Descargar archivo de las últimas noticias leídas para comparar.
-  Subir audios a la nube y añadir opción para compartirlos, es decir, cuando se comparten se descargan de la nube y se comparte el  audio.
+  Función de compartir audios (que serían descargados de la nube y comprimidos en los archivos de la app para ahorrar espacio).
   Agregar contenido (audios, vídeos, imágenes...)
 
 Notas anteriores versiones:

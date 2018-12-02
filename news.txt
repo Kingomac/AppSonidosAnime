@@ -1,6 +1,9 @@
 Notas de versión actual:
-->0.3.9a
-  Vídeos aleatorios optimizados.
+-> 0.3.9b
+  Se pueden compartir audios de Black Clover y Eromanga-sensei.
+  No se apaga la pantalla según lo configurado en Android.
+  Barra de carga para los vídeos aleatorios y las noticias.
+  
 Notas la próxima versión 0.4:
   Diseñar logo. 
   Diseñar pantalla de carga. 
@@ -8,6 +11,8 @@ Notas la próxima versión 0.4:
   Agregar contenido (audios, vídeos, imágenes...)
 
 Notas anteriores versiones:
+-> 0.3.9a
+  Vídeos aleatorios optimizados.
 -> 0.3.8
   Arreglar errores con la nueva función: las noticias solo se abren cuando se abre el menú principal por primera vez al abrir la 
   aplicación y no al volver a él mediante otras escenas.

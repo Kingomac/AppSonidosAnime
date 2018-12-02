@@ -1,12 +1,6 @@
 Notas de versión actual:
--> 0.3.8
-  Arreglar errores con la nueva función: las noticias solo se abren cuando se abre el menú principal por primera vez al abrir la 
-  aplicación y no al volver a él mediante otras escenas.
-  Arreglar errores de cambio de versión de Unity. 2018.13f a 2018.16f.
-  Arreglado el vídeo de Nico Nico Nii que no estaba en la relación de aspecto 16/9 sino en 12/7.
-  Argumento completo de One Piece.
-  Transición “Fade In” para las descripciones de los animes.
-
+->0.3.9a
+  Vídeos aleatorios optimizados.
 Notas la próxima versión 0.4:
   Diseñar logo. 
   Diseñar pantalla de carga. 
@@ -14,6 +8,13 @@ Notas la próxima versión 0.4:
   Agregar contenido (audios, vídeos, imágenes...)
 
 Notas anteriores versiones:
+-> 0.3.8
+  Arreglar errores con la nueva función: las noticias solo se abren cuando se abre el menú principal por primera vez al abrir la 
+  aplicación y no al volver a él mediante otras escenas.
+  Arreglar errores de cambio de versión de Unity. 2018.13f a 2018.16f.
+  Arreglado el vídeo de Nico Nico Nii que no estaba en la relación de aspecto 16/9 sino en 12/7.
+  Argumento completo de One Piece.
+  Transición “Fade In” para las descripciones de los animes.
 -> 0.3.7
   Solucionado problema con los botones de compartir.
 -> 0.3.6

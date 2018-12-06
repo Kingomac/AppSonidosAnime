@@ -11,4 +11,3 @@ https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/konosub
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/konosuba/explosion11.mp3
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/konosuba/explosion12.mp3
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/konosuba/explosion13.mp3
-https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/konosuba/jajajajaja.mp3

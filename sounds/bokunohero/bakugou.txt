@@ -1,4 +1,3 @@
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/bokunohero/bakugou/shine1.mp3
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/bokunohero/bakugou/shine2.mp3
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/bokunohero/bakugou/shine3.mp3
-https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/bokunohero/bakugou/remix.mp3

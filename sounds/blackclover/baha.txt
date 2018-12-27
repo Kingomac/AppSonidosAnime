@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/blackcl
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/blackclover/baha4.mp3
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/blackclover/baha5.mp3
 https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/blackclover/baha6.mp3
+https://raw.githubusercontent.com/Kingomac/AppSonidosAnime/master/sounds/blackclover/remix.mp3
